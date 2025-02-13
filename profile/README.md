@@ -55,18 +55,6 @@ Vast Compatibility is another feature that sets CricFy App apart from its compet
 <li>Finish the installation, hunt your channel, and enjoy the quality content.&nbsp;</li>
 </ul>
 
-### Install Cricfy on iPhones
-
-Cricfy creators shaped it accordingly for Apple devices, although the program is still unavailable in the Apple Store. iPhone users can download the latest Cricfy for Apple devices from our website or from any reliable source. Install Cricfy on your iPhone in the following manner.
-
-<ul>
-<li>Open your internet browser and search Cricfy for iPhone.</li>
-<li>Choose a well-reputed website.</li>
-<li>Get the latest CricFy for iOS.</li>
-<li>Download the file for your iPhone model.</li>
-<li>Finish the installation and enjoy.</li>
-</ul>
-
 ### Cricfy for PCs/Desktops/Laptops
 
 Watching the newest videos on a big screen has become easy with Cricfy. So, hurry up and download Cricfy for a PC. There are several ways to set Cricfy on your computers. Streaming enthusiasts can download it from Google, or they may use BlueStacks to perform the installation. The following method is appropriate for installing Cricfy on a PC.
