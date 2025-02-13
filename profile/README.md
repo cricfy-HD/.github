@@ -25,22 +25,6 @@ According to recent statistics, the number of OTT platform users has surged dram
 
 CricFy TV is a popular streaming application that provides users with access to live TV, sports events, and news. Designed to cater to the growing demand for convenient and flexible viewing options, CricFy TV has gained significant traction in countries such as India, Pakistan, Bangladesh, the UK, and the United States. This app offers a comprehensive solution for those who want to watch their favorite sports and entertainment content on the go.
 
-## Prime Streaming Traits of CricFy TV
-
-The CricFy App is matchless due to its streaming capabilities, and that’s the core reason behind its long-term dominance on the Google Play and App Store. The forthcoming section will discuss some salient features of the CricFy TV App.
-
-### Live Cricket Streams
-
-CricFy adopts Cricket Streams as its prime service from worldwide cricket lovers and streamers. In all seriousness, this app offers live streams from worldwide events, ranging from ICC Events to Bilateral Series and Domestic T20 and Leagues.
-
-### Other Sports Streams
-
-Beyond Cricket Streams, CricFy is a reliable Android Streaming App for watching HD quality and Distortion-free streams of Hockey, Football, WWE, Motor Sports, Kabaddi, Badminton, Boxing, and other leading sports and games.
-
-### Live TV Channels
-
-After a recent update, the CricFy App has adopted Live TV Streams into its core streaming services. From now on, CricFy will offer streams from worldwide TV Channels, including HBO, Star Plus, National Geography, and Discovery
-
 ## Guide to Install CricFy App APK
 
 Vast Compatibility is another feature that sets CricFy App apart from its competitors. In the spotlight, this digital asset supports all top-notch Android Brands, iPhone Models, Windows-oriented Gadgets, and all-generation Smart TVs.
